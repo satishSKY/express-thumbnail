@@ -1,7 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 var mkdirp = require('mkdirp');
-var lwip = require('lwip');
+var lwip = require("pajk-lwip");
 
 
 function convert(location, filepath, width, height, cb) {

@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "node-gyp": "~3.6.2",
-    "lwip": "0.0.9",
+    "pajk-lwip": "^0.2.0",
     "mkdirp": "~0.5.*"
   },
   "devDependencies": {
