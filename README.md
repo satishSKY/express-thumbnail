@@ -5,7 +5,7 @@ It automatically creates a thumbnails by adding query parameters onto a image ur
 
 ## Overview
 
-This module use [lwip](https://github.com/EyalAr/lwip), which didn't require external runtime dependencies for image 
+This module use pajk-lwip instead on [lwip](https://github.com/EyalAr/lwip), which didn't require external runtime dependencies for image 
 processing. It means you don't have to install anything else on your system.
 
 
